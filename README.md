@@ -60,5 +60,3 @@ The Shinobi-Name-Service-Contract makes use of the following libraries and depen
 - Base64 Library: [Base64.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Base64.sol)
 
 Please refer to the respective sources for licensing information and additional details.
-
-Feel free to modify and customize the [README.md](README.md) file according to your specific requirements and project details.
